@@ -1,2 +1,5 @@
-# manav_kasa_programi
-Java101 Patikası 
+# Manav Kasa Programı
+## Java101 Patikası İçin Verilen Proje Ödevi
+
+###Egecan Ör
+[Patika.dev](www.patika.dev)
